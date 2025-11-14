@@ -1,5 +1,11 @@
 <?php
 
-use Illuminate\support\facades\route;
-use App\Http\Controllers\WarungController;
+use Illuminate\Support\Facades\Route;
 
+Route::get('/home', function () {
+    return view('home');    
+});
+
+Route::get('/about', function () {
+    return view('about');    
+});
