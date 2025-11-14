@@ -33,7 +33,7 @@ class Warung
                 'title' => 'Nasi Goreng Suka Duka',
                 'subtitle' => 'Tiap Suapan Berasa Berduka',
                 'deskripsi' => 'Nasi goreng yang paham perasaan. Kadang pedas, kadang manis—kayak hubungan yang nggak jelas. Ada telur buat harapan, ayam buat kenangan, dan kerupuk buat pelengkap luka.',
-                'images' => '4.jpeg',
+                'images' => '1.jpeg',
             ],
             [
                 'id' => 5,
