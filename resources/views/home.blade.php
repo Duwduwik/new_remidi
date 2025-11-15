@@ -65,7 +65,7 @@
     <div class="row mb-4">
         <div class="col-12 text-center">
             <h1 style="font-size: 2rem; margin-bottom: 40px;">
-                Selamat Datang di --Masukkan nama programmer 1 dan nim-- Group
+                Selamat Datang di --Rizky Dewa Cahya Saputra_2301040014-- Group
             </h1>
         </div>
     </div>
